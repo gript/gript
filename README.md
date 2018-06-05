@@ -3,7 +3,7 @@ Information integration platform, based on Node.js.
 
 **This project is NOT accomplished yet**
 
-> Based on a project writen in [Unique Hackday](https://hack.hustunique.com/) 2018.
+> Based on a project written in [Unique Hackday](https://hack.hustunique.com/) 2018.
 >
 > [Original demo](https://github.com/podiumdesu/2018UniqueHackday-Grape) accomplished with [@podiumdesu](https://github.com/podiumdesu).
 
