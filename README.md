@@ -1,5 +1,8 @@
-# grape
+# gript
+
 Information integration platform, based on Node.js.
+
+Grape + Script
 
 **This project is NOT accomplished yet**
 
