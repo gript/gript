@@ -166,3 +166,6 @@ typings/
 
 # Serverless directories
 .serverless
+
+# Scripts
+scripts/
